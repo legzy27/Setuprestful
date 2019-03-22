@@ -1,2 +1,1 @@
-Create files
-Setup server# Setuprestful
+Setting up a RESTful API with Node.js and PostgreSQL
